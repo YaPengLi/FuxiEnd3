@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity implements RouteSearch.OnRou
     private MapView mMapView;
     private AMap aMap;
     MyLocationStyle myLocationStyle;
+    //H1702A班demo修改
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
